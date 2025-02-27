@@ -1,4 +1,4 @@
-# Is Child
+# [Rule Name]
 
 ## Description
-Check if the person applying is a child
+[Rule description goes here]
