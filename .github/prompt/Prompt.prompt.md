@@ -4,7 +4,6 @@ This is the prompt of prompts that covers all other prompts
 
 ## Prompt list
 
-- [Create Rule Group](createrulegroup.prompt.md)
 - [Create Rule](rule/createrule.prompt.md)
 - [Rule Audit](analysis/ruleaudit.prompt.md)
 - [Rule Simplification](analysis/rulesimplification.prompt.md)

@@ -1,0 +1,18 @@
+schema_name,description
+gppb_personid,Unique identifier for the person
+gppb_firstname,First name of the person
+gppb_lastname,Last name of the person
+gppb_fullname,Full name of the person
+gppb_email,Email address of the person
+gppb_phone,Phone number of the person
+gppb_dateofbirth,Date of birth of the person
+gppb_age,Age of the person
+gppb_gender,Gender of the person
+gppb_address,Street address of the person
+gppb_city,City of residence
+gppb_state,State or region of residence
+gppb_postalcode,Postal code
+gppb_country,Country of residence
+gppb_createdon,Record creation timestamp
+gppb_modifiedon,Last modification timestamp
+gppb_status,Current status (active/inactive)
