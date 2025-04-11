@@ -1,7 +1,7 @@
 rule:
-  id: <RuleID>
-  name: <RuleName>
-  description: <RuleDescription>
+  id: 6B29FC40-CA47-1067-B31D-00DD010662DA
+  name: Check Person Gender
+  description: Check if the record indicates if the person is a male, female, or other
   payloadtemplate:
     - field: "gender"
       reference: "gppb_gender"    
